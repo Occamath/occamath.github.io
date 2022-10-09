@@ -6,13 +6,14 @@ gh-repo: daattali/beautiful-jekyll
 comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
 
-## Here is a secondary heading
 
-Here's a useless table:
+## Books
+** If you are a student, some of these might be FREELY available through your institution (e.g. via a digital subcription to Springer or in your library). **
+
+** If you intend to purchase your own copy, please consider using one of the links below. These are affiliate links, which means that the price is unaffected, but the channel gets a small comission.**
+
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
