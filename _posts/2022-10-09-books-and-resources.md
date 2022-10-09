@@ -38,7 +38,7 @@ Please consider using one of the links below. These are affiliate links, meaning
 
 ## Other resources
 
-* ["Memorizing' theorems" - MathOverflow](https://mathoverflow.net/questions/3951/memorizing-theorems)
+* ["Memorizing theorems" - MathOverflow](https://mathoverflow.net/questions/3951/memorizing-theorems)
 
 * ["Ask yourself dumb questions – and answer them!" - Terence Tao](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
    
