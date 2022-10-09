@@ -3,8 +3,6 @@ layout: post
 title: Books and resources
 subtitle: All resources mentioned in the videos.
 gh-repo: daattali/beautiful-jekyll
-gh-badge: 
-tags: 
 comments: false
 ---
 
