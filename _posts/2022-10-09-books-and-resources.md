@@ -1,77 +1,37 @@
 ---
 layout: post
 title: Books and resources
-subtitle: All resources mentioned in the videos.
 gh-repo: daattali/beautiful-jekyll
 comments: false
 ---
 
 
 
-
 ## Books
-** If you are a student, some of these might be FREELY available through your institution (e.g. via a digital subcription to Springer or in your library). **
 
-** If you intend to purchase your own copy, please consider using one of the links below. These are affiliate links, which means that the price is unaffected, but the channel gets a small comission.**
+#### If you are a student:
+Some of these **might be FREELY available** through your institution (e.g. via a digital subcription to Springer or in your library).
 
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+#### If you intend to purchase your own copy:
+Please consider using one of the links below. These are affiliate links, meaning you support this channel while still paying the same price you would have paid otherwise.
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+* [How to Solve It](https://amzn.to/3CLPSER), _George Pólya_ 
 
-It can also be centered!
+   A fantastic book on problem solving by a famous mathematicians who strongly influenced modern-day problem solving.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+* [Solving Mathematical Problems: A Personal Perspective](https://amzn.to/3RLBVek), _Terence Tao_ 
+   
+   'Live walk-throughs' that demonstrates how 15-year-old Terence Tao approached problem solving on many Math-Olympiad-level problems.
 
-Here's a code chunk:
+* [Analysis 1](https://amzn.to/3fVsc7V), _Terence Tao_ 
+   
+   For undergraduate students or self-learners who want to learn Analysis. Also for those who would like to gain insight into how Terence Tao thinks and have sufficient background knowledge to understand Analysis.
+   
+* [I Want to Be A Mathematician](https://amzn.to/3RPjiG6), _Paul Halmos_ 
+   
+   Full of gems on how to learn mathematics. However, this is mostly an autobiography, so take that into consideration.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+This is a running list. This means that if I come across other worthwhile books and resources, I will add them here.
