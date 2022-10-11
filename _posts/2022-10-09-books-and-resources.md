@@ -5,6 +5,7 @@ gh-repo: daattali/beautiful-jekyll
 comments: false
 ---
 
+Below is a running list of resources which helped inspire the video "[How to learn math like top mathematicians?](https://youtu.be/8TOiO5YlRUw)".
 
 
 ## Books
@@ -41,6 +42,8 @@ Please consider using one of the links below. These are affiliate links, meaning
 * ["Memorizing theorems" - MathOverflow](https://mathoverflow.net/questions/3951/memorizing-theorems)
 
 * ["Ask yourself dumb questions – and answer them!" - Terence Tao](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
+
+* ["How to work out proofs in Analysis I" - Timothy Gowers](https://gowers.wordpress.com/2014/02/03/how-to-work-out-proofs-in-analysis-i/)
    
 
 
