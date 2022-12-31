@@ -48,4 +48,4 @@ Please consider using one of the links below. These are affiliate links, meaning
 
 
 
-#### These are running lists. This means that if I come across other worthwhile books and resources, I will add them here.
+#### These are running lists - if I come across other worthwhile books and resources, I will add them here.
