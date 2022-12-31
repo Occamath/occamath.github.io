@@ -20,7 +20,7 @@ Please consider using one of the links below. These are affiliate links, meaning
 
 * [How to Solve It - George Pólya](https://amzn.to/3CLPSER)
 
-   A fantastic book on problem solving by a famous mathematicians who strongly influenced modern-day problem solving.
+   A fantastic book on problem solving by a famous mathematicians who influenced many other mathematicians, including Terence Tao (in his early days).
 
 * [Solving Mathematical Problems: A Personal Perspective - Terence Tao](https://amzn.to/3RLBVek) 
    
