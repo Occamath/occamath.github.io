@@ -14,7 +14,7 @@ Below is a running list of resources which helped inspire the video "[How to lea
 Some of these **might be FREELY available** through your institution (e.g. via a digital subcription to Springer or in your library).
 
 #### If you intend to purchase your own copy:
-Please consider using one of the links below. These are affiliate links, meaning you support this channel while still paying the same price you would have paid otherwise. (If you wish to support this channel without purchasing any books, you can do so by [buying me a coffee](https://ko-fi.com/occamath)).
+Please consider using one of the links below. These are affiliate links, meaning you support this channel while still paying the same price you would have paid otherwise. (If you wish to support this channel without purchasing any books, you can do so by [buying me a coffee](https://ko-fi.com/occamath) ).
 
 
 * [How to Solve It - George Pólya](https://amzn.to/3CLPSER)
