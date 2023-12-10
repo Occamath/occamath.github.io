@@ -17,7 +17,7 @@ Some of these **might be FREELY available** through your institution (e.g. via a
 Please consider using one of the links below. These are affiliate links, meaning you support this channel while still paying the same price you would have paid otherwise. (If you wish to support this channel without purchasing any books, you can [buy me a coffee](https://ko-fi.com/occamath)).
 
 
-* [How to Solve It - George Pólya](https://amzn.to/3uSPOBw))
+* [How to Solve It - George Pólya](https://amzn.to/3uSPOBw)
 
    A fantastic book on problem solving by a famous mathematicians who influenced many other mathematicians, including Terence Tao (in his early days).
 
