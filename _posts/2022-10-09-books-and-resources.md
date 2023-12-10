@@ -17,19 +17,19 @@ Some of these **might be FREELY available** through your institution (e.g. via a
 Please consider using one of the links below. These are affiliate links, meaning you support this channel while still paying the same price you would have paid otherwise. (If you wish to support this channel without purchasing any books, you can [buy me a coffee](https://ko-fi.com/occamath)).
 
 
-* [How to Solve It - George Pólya](https://amzn.to/3CLPSER)
+* [How to Solve It - George Pólya](https://amzn.to/3uSPOBw))
 
    A fantastic book on problem solving by a famous mathematicians who influenced many other mathematicians, including Terence Tao (in his early days).
 
-* [Solving Mathematical Problems: A Personal Perspective - Terence Tao](https://amzn.to/3RLBVek) 
+* [Solving Mathematical Problems: A Personal Perspective - Terence Tao](https://amzn.to/3uQTTq3)
    
    'Live walk-throughs' that demonstrates how 15-year-old Terence Tao approached problem solving on many Math-Olympiad-level problems.
 
-* [Analysis 1 - Terence Tao](https://amzn.to/3fVsc7V) 
+* [Analysis 1 - Terence Tao](https://amzn.to/3TmM3hV) 
    
    For undergraduate students or self-learners who want to learn Analysis. Also for those who would like to gain insight into how Terence Tao thinks and have sufficient background knowledge to understand Analysis.
    
-* [I Want to Be A Mathematician - Paul Halmos](https://amzn.to/3RPjiG6) 
+* [I Want to Be A Mathematician - Paul Halmos](https://amzn.to/3GVY3jf)
    
    Full of gems on how to learn mathematics. However, this is mostly an autobiography, so take that into consideration.
 
