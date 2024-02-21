@@ -5,7 +5,7 @@ gh-repo: daattali/beautiful-jekyll
 comments: false
 ---
 
-Below is a running list of resources which helped inspire the video "[How to learn math like top mathematicians?](https://youtu.be/8TOiO5YlRUw)".
+Below is a running list of resources which helped inspire the videos on the [Occam Math YouTube channel](https://www.youtube.com/@occamath), including the video:  "[How to learn math like top mathematicians?](https://youtu.be/8TOiO5YlRUw)".
 
 
 ## Books
